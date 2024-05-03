@@ -1,0 +1,27 @@
+
+
+8P8C (e.g. Ethernet) PORT (PC side):
+
+	        _____
+	      _|     |_
+	 ____|         |____
+	|                   |
+	|                   |
+	|                   |
+	|_ 8 7 6 5 4 3 2 1 _|
+	 
+
+	Pin	Description	10base-T	100Base-T	1000Base-T4
+	1	Transmit Data+ or BiDirectional	TX+	TX+	BI_DA+
+	2	Transmit Data- or BiDirectional	TX-	TX-	BI_DA-
+	3	Receive Data+ or BiDirectional	RX+	RX+	BI_DB+
+	4	Not connected or BiDirectional	n/c	n/c	BI_DC+
+	5	Not connected or BiDirectional	n/c	n/c	BI_DC-
+	6	Receive Data- or BiDirectional	RX-	RX-	BI_DB-
+	7	Not connected or BiDirectional	n/c	n/c	BI_DD+
+	8	Not connected or BiDirectional	n/c	n/c	BI_DD-
+
+
+https://samepins.github.io/ref/modular-connector.html
+https://pinoutguide.com/Net/Ethernet10BaseT_pinout.shtml
+https://pinoutguide.com/NetworkCables/Ethernet10BaseTStraightThru_pinout.shtml

@@ -1,0 +1,25 @@
+     +------------------+
+     |     ........     |
+     | +--------------+ |
+     | +--------------+ |
+     | |              | |
+     | |              | |
+     | |              | |
+     | |              | |
+     | +--------------+ |
+     |     ........     |
+     +------------------+
+           12345678
+
+Pin Description
+ 1.  RST--------- reset
+ 2.  CE---------- chip selection
+ 3.  DC---------- data/commands choice
+ 4.  DIN--------- serial data line
+ 5.  CLK--------- serial Clock Speed
+ 6.  3.3V-------- VCC
+ 7.  LIGHT------- backlight control terminal
+ 8.  GND--------- power negative
+
+https://github.com/maxint-rd/mxUnifiedPCD8544_Nokia_5110_LCD
+

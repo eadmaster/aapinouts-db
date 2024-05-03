@@ -1,0 +1,31 @@
+ 
+19 pin HDMI type A plug connector (at the cable):
+
+	 __________________________
+	| 1 3 5 7 9 11 13 15 17 19 |
+	 \ 2 4 6 8 10 12 14 16 18 /
+	  -----------------------
+
+
+	1	TMDS Data2+
+	2	TMDS Data2 Shield
+	3	TMDS Data2-
+	4	TMDS Data1+
+	5	TMDS Data1 Shield
+	6	TMDS Data1-
+	7	TMDS Data0+
+	8	TMDS Data0 Shield
+	9	TMDS Data0-
+	10	TMDS Clock+
+	11	TMDS Clock Shield
+	12	TMDS Clock-
+	13	CEC
+	14	Reserved/Utility/HEAC+ 
+	15	SCL
+	16	SDA
+	17	DDC/HEC/CEC Ground
+	18	+5 V Power
+	19	Hot Plug Detect/HEC Data-
+
+
+https://pinoutguide.com/Video/hdmi_pinout.shtml

@@ -1,0 +1,17 @@
+
+4 pins female connector:
+
+	   -----------
+	 /            \
+	|  1  2  3  4  |
+	|              |
+	 --------------
+
+
+    pin 1 = +12V (yellow)
+    pin 2 = ground (black)
+    pin 3 = ground (black)
+    pin 4 = +5V (red) 
+
+
+https://en.wikipedia.org/wiki/Molex_connector

@@ -1,0 +1,21 @@
+
+
+9 pin D-SUB male connector (at the game console)
+
+	  _____________
+	  \ 5 4 3 2 1 /
+	   \ 9 8 7 6 /
+	    `~~~~~~~' 
+
+
+	1	Up
+	2	Down
+	3	Left
+	4	Right
+	5	N/C
+	6	Button 1
+	7	Light sensor (Light Phaser only)
+	8	GND
+	9	Button 2
+
+https://pinoutguide.com/Game/sega_ms_joy_pinout.shtml

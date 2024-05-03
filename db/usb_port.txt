@@ -1,0 +1,70 @@
+ 
+
+USB Type A (PLUG/MALE) Front view
+
+    _________________________________
+    |_______________________________|
+    |  /_4_/  |_3_|  |_2_|  \_1_\   |
+    |_______________________________|
+
+
+    1 : VBUS    | Red/Orange | 5V
+    2 : D-      | White/Gold | Data-
+    3 : D+      | Green      | Data+
+    4 : GND     | Black/Blue | Ground
+
+
+USB Type B (PLUG/MALE) Front View
+
+     _____________________
+    /  _________________  \
+    | |  \_1_/   \_2_/  | |
+    | |                 | |
+    | |                 | |
+    | |                 | |
+    | |                 | |
+    | |   ___    ___    | |
+    | |  / 4 \  / 3 \   | |
+    | |-----------------| |
+    |---------------------|
+
+    1 : VBUS    | Red/Orange | 5V
+    2 : D-      | White/Gold | Data-
+    3 : D+      | Green      | Data+
+    4 : GND     | Black/Blue | Ground
+
+
+USB Mini-B (MALE) Front View
+
+    _________________________________________
+    | __] 5 [__] 4 [__] 3 [__] 2 [__] 1 [__ |
+    \|    v      v      v      v      v    |/
+     |                                     |
+     |_____________________________________|
+
+    1 : VBUS | Red/Orange | 5V
+    2 : D-   | White/Gold | Data-
+    3 : D+   | Green      | Data+
+    4 : ID   |            | Mode Detect (Floating)
+    5 : GND  | Black/Blue | Ground
+    
+    
+USB Micro-B (MALE) Front View
+
+      __________________________________
+     /                                  \
+    /   ___]1[__]2[__]3[__]4[__]5[____   \
+    |   |   v    v    v    v    v    |   |
+    |___|____________________________|___|
+
+
+    1 : VBUS | Red/Orange | 5V
+    2 : D-   | White/Gold | Data-
+    3 : D+   | Green      | Data+
+    4 : ID   |            | Mode Detect (Floating)
+    5 : GND  | Black/Blue | Ground
+
+
+TODO: USB Type-C
+
+https://samepins.github.io/ref/usb.html

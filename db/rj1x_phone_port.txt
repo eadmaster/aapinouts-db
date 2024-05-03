@@ -1,0 +1,36 @@
+
+
+6P2C PORT (Telephone. Typically called as RJ11 ):
+    (6 Possible Contacts, 4 Pin Contacts Used)
+
+
+          _|     |_
+     ____|         |____
+    |                   |
+    |                   |
+    |                   |
+    |_ [] [] 2 1 [] [] _|
+
+
+    If Twisted Pairs:
+        pair1: pin 1&2
+        
+        
+6P4C PORT (Telephone. Typically called RJ12):
+    (6 Possible Contacts, 4 Pin Contacts Used)
+            _____
+          _|     |_
+     ____|         |____
+    |                   |
+    |                   |
+    |                   |
+    |_  [] 4 3 2 1 []  _|
+
+
+    If Twisted Pairs:
+        pair1: pin 3&2, 
+        pair2: pin 1&4 
+
+
+https://samepins.github.io/ref/modular-connector.html
+http://en.wikipedia.org/wiki/Registered_jack#Registered_jack_types

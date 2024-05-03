@@ -1,0 +1,27 @@
+ 
+  
+TS=Tip-Sleeve Plug Pin out (mono audio):
+
+            _____________________________|##
+     /---\_/ |       |                   |####
+    | TIP _  | RING1 |        SLEEVE     |####}========>
+     \---/ \_|_______|___________________|####
+                                         |##
+
+TRS=Tip-Ring-Sleeve Plug Pin out (stereo audio):
+
+            _____________________________|##
+     /---\_/ |       |                   |####
+    | TIP _  | RING1 |        SLEEVE     |####}========>
+     \---/ \_|_______|___________________|####
+                                         |##
+
+
+	L (Left Signal)	Tip	1	Green
+	R (Right Signal)	Ring	2	Red
+	GND (Ground)	Sleeve	3	Bare Copper
+
+
+https://samepins.github.io/ref/audio-ports.html
+https://pinoutguide.com/Audio-Video-Hardware/Tele35s_pinout.shtml
+https://pinoutguide.com/Audio-Video-Hardware/Tele35m_pinout.shtml

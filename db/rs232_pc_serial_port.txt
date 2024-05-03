@@ -1,0 +1,22 @@
+
+
+9 pin D-SUB female connector (at the cable)
+
+	  _____________
+	  \ 5 4 3 2 1 /
+	   \ 9 8 7 6 /
+	    `~~~~~~~' 
+
+    
+	1	DCD	<--	Data Carrier Detect
+	2	RXD	<--	Receive Data
+	3	TXD	-->	Transmit Data
+	4	DTR	-->	Data Terminal Ready
+	5	0V/COM	---	0V or System Ground
+	6	DSR	<--	Data Set Ready
+	7	RTS	-->	Request to Send
+	8	CTS	<--	Clear to Send
+	9	RI	<--	Ring Indicator
+
+
+https://pinoutguide.com/SerialPorts/Serial9_pinout.shtml

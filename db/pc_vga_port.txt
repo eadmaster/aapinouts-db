@@ -1,0 +1,19 @@
+ 
+15 pin highdensity D-SUB male connector (at the 15-pin end of the cable):
+
+
+TODO: DE-15 port
+ 
+ 
+	Red Video	1
+	Green Video	2
+	Blue Video	3
+	Horizontal Sync	13
+	Vertical Sync	14
+	Red GND	6
+	Green GND	7
+	Blue GND	8
+	Sync GND	10 + 11
+
+
+https://old.pinouts.ru/Audio-Video-Hardware/9to15VGA_pinout.shtml

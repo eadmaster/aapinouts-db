@@ -1,0 +1,22 @@
+
+
+TRRS Plug Pin out (AV = analog audio+composite video):
+
+	        _____________________________|##
+	 /---\_/ |       |       |           |####
+	| TIP _  | RING1 | RING2 | SLEEVE    |####}========>
+	 \---/ \_|_______|_______|___________|####
+	                                     |##
+
+RPI/CTIA/APPLE/AHJ mapping:
+
+	1	TIP	audio left
+	2	RING1	right audio 
+	3	RING2	ground
+	4	SLEEVE	composite video
+
+
+https://samepins.github.io/ref/audio-ports.html
+https://pinoutguide.com/HeadsetsHeadphones/Raspberry_pi_composite_vi_pinout.shtml
+https://pinoutguide.com/Audio-Video-Hardware/av_jack_pinout.shtml
+https://www.reddit.com/r/raspberry_pi/comments/oo46ih/i_mapped_a_few_trrs_cables_to_the_rca_connectors/

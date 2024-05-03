@@ -1,0 +1,12 @@
+   
+7 pin SNES proprietary female connector at the Console:
+
+
+	1 [oooo|ooo) 7 
+
+
+	1:+5V  2:Clock  3:Latch  4:Data  5:N/C  6:N/C  7:Gnd
+
+
+https://www.nesdev.org/wiki/Controller_port_pinout
+https://pinoutguide.com/Game/snescontroller_pinout.shtml

@@ -1,0 +1,25 @@
+                  +-----+
+          +-------+ USB +-------+
+          |O O J1 +-----+       |
+    TX  1 |[ ]TX0         RAW[ ]|
+    RX  0 |[ ]RXI * PWR   GND[ ]|
+          |[ ]GND   /\    RST[ ]|
+          |[ ]GND  /AT\   VCC[ ]| (5V OR 3.3V)
+    SDA 2 |[ ]2   /MEGA\   A3[ ]| 21 A3
+PWM SCL 3 |[ ]3   \32U4/   A2[ ]| 20 A2
+    A6  4 |[ ]4    \  /    A1[ ]| 19 A1
+PWM     5 |[ ]5     \/     A0[ ]| 18 A0
+PWM A7  6 |[ ]6            15[ ]| 15    SCLK
+        7 |[ ]7  * RX TX * 14[ ]| 14    MISO
+    A8  8 |[ ]8            16[ ]| 16    MOSI
+PWM A9  9 |[ ]9  PRO MICRO 10[ ]| 10 A10  PWM
+          +---------------------+
+    A   A                         A  A
+    N   R    Verify if you have   R  N
+    A   D         3.3V/8MHz       D  A
+    L   U           or            U  L
+    O   I         5V/16MHz        I  O
+    G   N         version!        N  G
+        O                         O
+
+https://www.reddit.com/r/arduino/comments/3tb0d2/i_made_some_asciiart_arduinos_to_paste_in/

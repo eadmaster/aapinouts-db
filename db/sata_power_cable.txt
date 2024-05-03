@@ -1,0 +1,28 @@
+
+15 pin Molex 67581-0000 SATA power connector (at the cable):
+
+	 __________________________________
+	|                                  |
+	|   _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_|
+	|  | 1 2 3 4 5 6 7 8 9 1 1 1 1 1 1
+	|__|                   0 1 2 3 4 5
+
+
+	1	+3.3VDC	orange
+	2	+3.3VDC	orange
+	3	+3.3VDC	orange
+	4	GND	black
+	5	GND	black
+	6	GND	black
+	7	+5VDC	red
+	8	+5VDC	red
+	9	+5VDC	red
+	10	GND	black
+	11	Optional	black	Staggered spinup/activity
+	12	GND	black
+	13	+12VDC	yellow
+	14	+12VDC	yellow
+	15	+12VDC	yellow
+
+
+https://pinoutguide.com/Power/sata-power_pinout.shtml

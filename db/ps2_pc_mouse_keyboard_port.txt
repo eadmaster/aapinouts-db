@@ -1,0 +1,23 @@
+
+Mini-DIN6 female port (on the computer):
+
+
+       └┘
+    6o ┌┐ o5
+       ││
+  4o   └┘   o3
+   ─┐      ┌─
+    │o    o│
+     2    1
+
+ 
+	1   data
+	2   n/c (reserved)
+	3   gnd
+	4   +5v
+	5   clock
+	6   n/c (reserved)
+   
+
+http://burtonsys.com/PS2_keyboard_and_mouse_mini-DIN-6_connector_pinouts.txt
+https://pinoutguide.com/InputCables/PS2Mouse_pinout.shtml

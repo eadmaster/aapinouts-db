@@ -1,0 +1,19 @@
+
+7 pin Serial ATA motherboard internal connector (at the host device):
+
+	+------------------+
+	|  1 2 3 4 5 6 7 | |
+	| ---------------+ |
+	+------------------+
+
+
+	1	GND	Ground
+	2	A+	Transmit+
+	3	A-	Transmit-
+	4	GND	Ground
+	5	B-	Receive-
+	6	B+	Receive+
+	7	GND	Ground
+
+
+https://pinoutguide.com/HD/serialATA_pinout.shtml
