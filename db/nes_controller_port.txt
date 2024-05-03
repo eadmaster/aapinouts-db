@@ -2,12 +2,12 @@
 controller port on the console:
      
 
-			.-   
+	        .-   
 	 GND -- |O\        
 	 CLK <- |OO\ -- +5V
 	 LAT <- |OO| <- D3 (N/C)
 	  D0 -> |OO| <- D4 (N/C)
-			'--' 
+	        '--' 
 
 
 https://www.nesdev.org/wiki/Controller_port_pinout

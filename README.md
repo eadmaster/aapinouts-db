@@ -4,7 +4,7 @@ Ascii art pinouts db for commandline use.
 
 Collected from various sources (links included).
 
-Files in the `db_kicad_converted` dir were generated with [this script](https://github.com/FBEZ/Pinout-AsciiArt) and the [this db](https://github.com/ask6483/kicad-symbols/).
+Files in the `db_kicad_converted` dir were generated with [this script](https://github.com/FBEZ/Pinout-AsciiArt) and [this db](https://github.com/ask6483/kicad-symbols/).
 
 example usages on a bash shell:
 
@@ -16,3 +16,10 @@ example usages on a bash shell:
 	pinout() {  unzip -Z1 /home/user/Downloads/pinouts-db-main.zip | fzf --exact --no-extended | xargs unzip -p /home/user/Downloads/pinouts-db-main.zip ; } # select a file inside a zipped archive and print it
 
 ````
+
+TODO:
+
+ - script to colorize the output
+ - pretty print the pinouts tables (parse from tsv or convert?)
+ - uniform schematic format?
+ 
