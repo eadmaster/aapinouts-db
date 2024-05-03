@@ -1,5 +1,6 @@
 Pinout 74HC595 shift register DIP and SMD model:
 
+
      +--v--+          PINS 1-8       PINS 9-16
   1 -+     +- 16      1: output Qb   16: VCC
   2 -+     +- 15      2: output Qc   15: output Qa   - expanded pin P0
@@ -10,5 +11,6 @@ Pinout 74HC595 shift register DIP and SMD model:
   7 -+     +- 10      7: output Qh   10: Clear SRCLR - active low, so connect to VCC
   8 -+     +- 9       8: GND          9: Cascade SER Qh' - to SER of next chip
      +-----+
+     
      
 https://github.com/maxint-rd/mxUnified74HC595 

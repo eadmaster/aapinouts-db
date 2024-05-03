@@ -1,4 +1,5 @@
 
+
          ATtiny13/13A
            ┌──┬┬──┐
      RESET ┤1 └┘ 8├ Vcc
@@ -6,5 +7,6 @@
   ADC2 PB4 ┤3    6├ PB1 MISO/AIN1/OC0B/INT0
        GND ┤4    5│ PB0 MOSI/AIN0/OC0A
            └──────┘
+
 
 https://github.com/paulfantom/Arduino-colors/

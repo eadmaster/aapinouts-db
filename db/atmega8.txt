@@ -1,3 +1,5 @@
+
+
                        +---\/---+
          (RESET)  PC6  |1     28|  PC5  (ADC5 / SCL)
            (RXD)  PD0  |2     27|  PC4  (ADC4 / SDA)
@@ -14,5 +16,6 @@
           (AIN1)  PD7  |13    16|  PB2  (SS / OC1B)
           (ICP1)  PB0  |14    15|  PB1  (OC1A)
                        +--------+
+
 
 https://gist.github.com/Marzogh/0fb0ea682626c385190d4884e83aefbe

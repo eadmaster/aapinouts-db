@@ -1,3 +1,5 @@
+
+
      +---------------------+
 -SCL-+   ::: +---+         |
 -SCA-+   +-+ |PCF| ''': LED+-
@@ -6,6 +8,7 @@
      +---------------------+
         1234567890123456
         ||||||||||||||||
+
 
 Pin Description
  1.  GND
@@ -24,5 +27,6 @@ Pin Description
 14.  P7
 15.  VCC (for LED)
 16.  P3 (connected via LED jumper to J3Y (=S8050) transistor, sink)
+
 
 https://github.com/maxint-rd/mxUnifiedPCF8574

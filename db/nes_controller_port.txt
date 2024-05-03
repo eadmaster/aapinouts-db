@@ -1,5 +1,4 @@
-    
-controller port on the console:
+NES controller port on the console:
      
 
 	        .-   

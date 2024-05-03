@@ -1,5 +1,3 @@
-
-
 9 pin D-SUB female connector (at the cable)
 
 	  _____________

@@ -1,4 +1,3 @@
-
 9 pin D-SUB male connector (at the game console)
 
 	  _____________

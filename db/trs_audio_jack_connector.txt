@@ -1,5 +1,3 @@
- 
-  
 TS=Tip-Sleeve Plug Pin out (mono audio):
 
             _____________________________|##

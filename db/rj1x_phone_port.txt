@@ -1,5 +1,3 @@
-
-
 6P2C PORT (Telephone. Typically called as RJ11 ):
     (6 Possible Contacts, 4 Pin Contacts Used)
 

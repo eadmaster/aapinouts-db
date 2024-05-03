@@ -1,5 +1,6 @@
 ATMEL ATTINY2313
 
+
 	                   +-\/-+
 	      (D 17) PA2  1|    |20  VCC
 	 RX   (D  0) PD0  2|    |19  PB7 (D  16)

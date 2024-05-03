@@ -1,3 +1,5 @@
+
+
                   +-----+
           +-------+ USB +-------+
           |O O J1 +-----+       |
@@ -21,5 +23,6 @@ PWM A9  9 |[ ]9  PRO MICRO 10[ ]| 10 A10  PWM
     O   I         5V/16MHz        I  O
     G   N         version!        N  G
         O                         O
+
 
 https://www.reddit.com/r/arduino/comments/3tb0d2/i_made_some_asciiart_arduinos_to_paste_in/

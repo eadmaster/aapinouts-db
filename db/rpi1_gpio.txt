@@ -1,3 +1,5 @@
+
+
               Pin 1 Pin2
            +3V3 [ ] [ ] +5V
  SDA1 / GPIO  2 [ ] [ ] +5V
@@ -13,5 +15,6 @@
  SCLK / GPIO 11 [ ] [ ] GPIO  8 / CE0#
             GND [ ] [ ] GPIO  7 / CE1#
              Pin 25 Pin 26
+
+
 http://weyprecht.de/2015/11/30/raspberry-pi-ascii-art/
- 
