@@ -1,7 +1,10 @@
 # pinouts-db
 
 Ascii art pinouts db for commandline use.
+
 Collected from various sources (links included)
+
+Files in the `db_kicad_converted` were generated with [this script](https://github.com/FBEZ/Pinout-AsciiArt) and the [this db](https://github.com/ask6483/kicad-symbols/).
 
 example usages:
 
