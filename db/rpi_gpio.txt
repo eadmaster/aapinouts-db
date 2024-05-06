@@ -24,4 +24,13 @@
 	             Pin 39 Pin 40
 
 
+GPIOs that have specific uses on the Raspberry Pi should be avoided:
+
+ - GPIO02 and GPIO03 are used by internal I2C bus and are always in a high state (pull-up).
+ - GPIO14 and GPIO15 are used by internal UART for bluetooth or serial console.
+ - GPIO07, GPIO08, GPIO09, GPIO10, and GPIO11 are used by internal SPI bus.
+ - GPIO04 is used by internal 1-Wire bus.
+
+
 http://weyprecht.de/2015/11/30/raspberry-pi-ascii-art/
+https://github.com/latchdevel/raspicode
