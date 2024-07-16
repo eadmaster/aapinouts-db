@@ -26,6 +26,28 @@
                                          +-----------------------+
 
 
+
+Reserved Pins:
+
+ - GPIO6 to GPIO11 (used for SPI flash, usually not exposed on boards)
+ - GPIO0, GPIO2, GPIO12, GPIO15 (Bootstrapping Pins, use with caution) -> should be left floating or pulled up or down during booting and flashing stages. 
+ - GPIO1 (TX0) and GPIO3 (RX0) UART Pins (if using serial communication)
+
+Special pins:
+ 
+ - GPIO34 to GPIO39: Input-only pins with no internal pull-up or pull-down resistors.
+ - GPIO36 (VP) and GPIO39 (VN): Used for ADC1.
+ - GPIO32 to GPIO39: Used for ADC1, touch sensors.
+
+Recommended General Use GPIO Pins:
+ 
+ - GPIO4
+ - GPIO5
+ - GPIO12 to GPIO14 (with bootstrapping caution)
+ - GPIO16 to GPIO19
+ - GPIO21 to GPIO23
+ - GPIO25 to GPIO27
+
 https://gist.github.com/iamamused/42cad8a59547ed5580e78d5274220813
 https://www.espressif.com/en/products/hardware/esp32/overview
 https://lastminuteengineers.com/esp32-arduino-ide-tutorial/#esp32-development-board-pinout

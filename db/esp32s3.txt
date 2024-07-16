@@ -1,0 +1,17 @@
+
+
+Reserved Pins:
+  GPIO26 to GPIO32 (used for SPI flash, usually not exposed on boards)
+  GPIO0, GPIO45, GPIO46 (Bootstrapping Pins, use with caution)
+  GPIO43 (TX0) and GPIO44 (RX0) UART Pins (if using serial communication)
+
+Special pins:
+  GPIO34 to GPIO37: Input-only pins with no internal pull-up or pull-down resistors.
+  GPIO36 (VP) and GPIO39 (VN): Used for ADC1.
+  GPIO18 and GPIO19: Used for JTAG.
+
+Recommended General Use GPIO Pins:
+  GPIO1 to GPIO25
+  GPIO33
+  GPIO38 to GPIO44
+  GPIO47 to GPIO48
